@@ -55,6 +55,7 @@ switch ($notif) {
     default:
         echo "Notification preference is not correct";
         break;
+        
 }
 
 
